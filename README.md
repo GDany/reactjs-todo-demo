@@ -8,6 +8,9 @@ the data, not involving the NetWork api.
 
 It's friendly to the beginner of ReactJs just like me.
 
+![image preview](https://github.com/naiyu/reactjs-todo-demo/blob/master/picture/normal.jpg)
+
+![image preview](https://github.com/naiyu/reactjs-todo-demo/blob/master/picture/normal.jpg)
 
 ## Features
 
