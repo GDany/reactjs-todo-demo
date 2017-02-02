@@ -10,7 +10,7 @@ It's friendly to the beginner of ReactJs just like me.
 
 ![image preview](https://github.com/naiyu/reactjs-todo-demo/blob/master/picture/normal.jpg)
 
-![image preview](https://github.com/naiyu/reactjs-todo-demo/blob/master/picture/normal.jpg)
+![image preview](https://github.com/naiyu/reactjs-todo-demo/blob/master/picture/normal_button.jpg)
 
 ## Features
 
