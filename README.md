@@ -39,6 +39,8 @@ After all succeed, run
 $ npm start
 ```
 
+> Notice：if you use the windows, change the `cp` to `copy` in scripts build in package.json file
+
 Now you can open the http://localhost:8080 in your browser.
 
 ## Licence
