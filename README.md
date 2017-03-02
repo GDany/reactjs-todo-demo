@@ -45,7 +45,7 @@ Now you can open the http://localhost:8080 in your browser.
 
 ## Licence
 
-**reactjs-todo-demo** is released under the [MIT license](https://github.com/robbyrussell/oh-my-zsh/blob/master/LICENSE.txt).
+**reactjs-todo-demo** is released under the [MIT license](https://github.com/naiyu/reactjs-todo-demo/blob/master/LICENSE).
 
 
 
